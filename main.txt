@@ -3,4 +3,8 @@
 3 three
 4 four
 5 five
+<<<<<<< HEAD
 6 six
+=======
+6 si01
+>>>>>>> origin/main
